@@ -1,6 +1,4 @@
-Readme file.
+This repository contains the developed models and the Data pre-processing pipeline, both of which were developed as part of my Final Year Thesis titled: 
+"A Deep Learning approach to segment Computed Tomography Angiograms."
 
-NOTES ON CUSTOMDATASET.PY:
 
-CustomDataset.py Version 2. (labelled seg maps are computed on the go during training) is uploaded here.
-Model is Currently using CustomDataset.py Version 3, where labelled seg maps are generated during dataset creation.
